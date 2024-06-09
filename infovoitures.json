@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nom": "Opel",
+        "annee": "2008",
+        "km": "177220",
+        "prix": 4790,
+        "image": "assets/opelcorsa.jpg"
+    },
+    {
+        "id": 2,
+        "nom": "Peugeot 208",
+        "annee": "2015",
+        "km": "67722",
+        "prix": 11900,
+        "image": "assets/peugeot1.jpg"
+    },
+    {
+        "id": 3,
+        "nom": "Citroên C3",
+        "annee": "2018",
+        "km": "134082",
+        "prix": 8990,
+        "image": "assets/citroenc3.jpg"
+    },
+    {
+        "id": 4,
+        "nom": "Peugeot 208",
+        "annee": "2018",
+        "km": "86297",
+        "prix": 9490,
+        "image": "assets/peugeot2.jpg"
+    },
+    {
+        "id": 5,
+        "nom": "Land-Rover",
+        "annee": "2001",
+        "km": "184200",
+        "prix": 7290,
+        "image": "assets/rangerover.jpg"
+    },
+    {
+        "id": 6,
+        "nom": "Volkswagen",
+        "annee": "2010",
+        "km": "177261",
+        "prix": 7200,
+        "image": "assets/volkswagenpolo.jpg"
+    }
+]
